@@ -1,0 +1,13 @@
+{
+	"n_targets": 117497,
+	"n_bootstraps": 0,
+	"n_processed": 65816324,
+	"n_pseudoaligned": 59213693,
+	"n_unique": 21147330,
+	"p_pseudoaligned": 90.0,
+	"p_unique": 32.1,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Mon Apr  5 19:04:17 2021",
+	"call": "kallisto quant -i ../mc38a/Mus_musculus.GRCm39.cdna.all.fa.gz -o MC38B-kallisto -t 7 rna_L001_R1.fastq.gz rna_L001_R2.fastq.gz"
+}
