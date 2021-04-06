@@ -17,3 +17,11 @@ ID | Plasmid | Gene/Insert | Vector Type
 [131034](https://www.addgene.org/131034/) | pcDNA3.1(+)-OTI-TCRB_p2_TCRA | TCRB (Mus musculus), TCRA (Mus musculus) | Mammalian Expression
 [131035](https://www.addgene.org/131035/) | pcDNA3.1(+)-OTI-TCRA | TCRA (Mus musculus) | Mammalian Expression
 [131036](https://www.addgene.org/131036/) | pcDNA3.1(+)-OTI-TCRB | TCRB (Mus musculus) | Mammalian Expression
+[138983](http://www.addgene.org/138983/) | pcDNA3.1(+)-MC38-TCRA-30-picky_sticky | Mammalian Expression
+[138984](http://www.addgene.org/138984/) | pcDNA3.1(+)-MC38-TCRB-30-picky_sticky | Mammalian Expression
+[138985](http://www.addgene.org/138985/) | pcDNA3.1(+)-MC38-TCRA-31-murderous_crow | Mammalian Expression
+[138986](http://www.addgene.org/138986/) | pcDNA3.1(+)-MC38-TCRB-31-murderous_crow | Mammalian Expression
+[138987](http://www.addgene.org/138987/) | pcDNA3.1(+)-MC38-TCRA-32-riot_punisher | Mammalian Expression
+[138988](http://www.addgene.org/138988/) | pcDNA3.1(+)-MC38-TCRB-32-riot_punisher | Mammalian Expression
+[138989](http://www.addgene.org/138989/) | pcDNA3.1(+)-MC38-TCRA-33-MC_hammer | Mammalian Expression
+[138990](http://www.addgene.org/138990/) | pcDNA3.1(+)-MC38-TCRB-33-MC_hammer | Mammalian Expression
